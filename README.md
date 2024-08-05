@@ -1,11 +1,6 @@
 # Godo
-My attempt at toppling atlassian.
 
-
-
-A todo app in the command line written in go. A change of pace from React and .NET
-
-
+A todo app in the command line written in go. So I don't have to use Jira
 
 ### Commands
 add - Add a task to godo
